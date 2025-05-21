@@ -20,8 +20,20 @@ LinkedIn: [linkedin.com/in/fabian-galasel](https://www.linkedin.com/in/fabian-ga
 
 ---
 
-📌 **Pinned Projects Coming Soon:**  
-Stay tuned for a collection of academic and personal projects that reflect my journey as a developer.
+### 📌 Pinned Projects
+
+**[PulseTechMobile](https://github.com/FabianC1/PulseTechMobile)**  
+A cross-platform mobile app built with React Native that connects users to fitness tracking and wellness features. Implements smooth UI/UX for tracking workouts, goals, and health stats on the go.  
+
+**[PulseTech-BackEnd](https://github.com/FabianC1/PulseTech-BackEnd)**  
+A scalable RESTful API developed using Node.js and Express.js, powering the PulseTech ecosystem. Handles user authentication, data management, and real-time syncing between mobile and web clients.  
+
+**[PulseTech-FrontEnd](https://github.com/FabianC1/PulseTech-FrontEnd)**  
+A responsive web application built with Vue.js, providing a clean dashboard for users to monitor their fitness progress, interact with the community, and manage their profiles seamlessly.  
+
+
+---
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -43,6 +55,6 @@ Stay tuned for a collection of academic and personal projects that reflect my jo
 ---
 
 
-## 🚀 Let's Build Something Together
+### 🚀 Let's Build Something Together
 
 I’m always looking to learn and collaborate. If you have an idea or opportunity that aligns with my interests — feel free to reach out!
