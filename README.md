@@ -35,7 +35,7 @@ Stay tuned for a collection of academic and personal projects that reflect my jo
 
 ## 📊 GitHub Stats
 
-![Fabian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabianC1&show_icons=true&theme=radical)
+![Fabian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabianG123&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianC1&layout=compact&theme=radical)
 
 ---
