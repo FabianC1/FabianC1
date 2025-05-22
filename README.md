@@ -69,7 +69,7 @@ A responsive web application built with Vue.js, providing a clean dashboard for 
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=FabianC1&theme=radical"
       alt="GitHub Streak"
-      width="320"
+      width="340"
       style="display: block;"
     />
   </div>
