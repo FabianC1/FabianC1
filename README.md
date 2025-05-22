@@ -3,9 +3,9 @@
 🎓 I'm a recent BSc (Hons) Computer Science graduate from Middlesex University, passionate about solving real-world problems through software.
 
 💻 I enjoy working across the stack — from building intuitive front-end interfaces to designing scalable back-end systems.  
-🔍 I'm especially interested in web development, mobile apps, game development, and edtech solutions.
+🔍 I'm especially interested in web development, mobile apps, game development, and software development.
 
-🌱 Currently exploring: TypeScript, React Native, and AWS fundamentals.  
+🌱 Currently exploring: TypeScript, and AWS fundamentals.  
 📂 Working on: Uploading and documenting all of my university and personal projects (websites, games, mobile apps, software tools).  
 🤝 Open to: Graduate software development roles and collaborative side projects.
 
