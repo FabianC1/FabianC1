@@ -63,13 +63,13 @@ A responsive web application built with Vue.js, providing a clean dashboard for 
     <img
       src="https://github-readme-stats.vercel.app/api?username=FabianC1&show_icons=true&theme=radical"
       alt="Fabian's GitHub stats"
-      width="320"
+      width="340"
       style="display: block;"
     />
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=FabianC1&theme=radical"
       alt="GitHub Streak"
-      width="340"
+      width="360"
       style="display: block;"
     />
   </div>
