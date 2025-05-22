@@ -56,28 +56,35 @@ A responsive web application built with Vue.js, providing a clean dashboard for 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=FabianC1&show_icons=true&theme=radical"
-    alt="Fabian's GitHub stats"
-    width="320"
-    style="display: inline-block"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=FabianC1&theme=radical"
-    alt="GitHub Streak"
-    width="320"
-    style="display: inline-block"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianC1&layout=compact&theme=radical"
-    alt="Top Languages"
-    width="320"
-    style="display: inline-block"
-  />
-</p>
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
+  <!-- Top row: two images side by side -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=FabianC1&show_icons=true&theme=radical"
+      alt="Fabian's GitHub stats"
+      width="320"
+      style="display: block;"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianC1&layout=compact&theme=radical"
+      alt="Top Languages"
+      width="320"
+      style="display: block;"
+    />
+  </div>
 
+  <!-- Bottom row: centered under the two -->
+  <div style="margin-top: 20px;">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=FabianC1&theme=radical"
+      alt="GitHub Streak"
+      width="320"
+      style="display: block;"
+    />
+  </div>
+
+</div>
 
 
 ### 🚀 Let's Build Something Together
