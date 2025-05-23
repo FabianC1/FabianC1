@@ -71,6 +71,7 @@ A responsive web application built with Vue.js, providing a clean dashboard for 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-2C2D33?style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 ---
