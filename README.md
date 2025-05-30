@@ -15,7 +15,8 @@ Email: [galaselfabian@gmail.com](mailto:galaselfabian@gmail.com)
 LinkedIn: [linkedin.com/in/fabian-galasel](https://www.linkedin.com/in/fabian-galasel/)
 
 ### 🌐 Personal Website  
-Check out my portfolio: [https://fabiangalasel.netlify.app](https://fabiangalasel.netlify.app)
+Check out my portfolio: [https://fabian-
+galasel.netlify.app](https://fabian-galasel.netlify.app)
 
 ⚡ Fun fact: I built my first website before I could legally drive.
 
