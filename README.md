@@ -9,7 +9,7 @@
 📂 Working on: Uploading and documenting all of my university and personal projects (websites, games, mobile apps, software tools).  
 🤝 Open to: Graduate software development roles and collaborative side projects.
 
-📫 **Reach me at:**  
+### 📫 Reach me at:  
 Email: [galaselfabian@gmail.com](mailto:galaselfabian@gmail.com)
 
 LinkedIn: [linkedin.com/in/fabian-galasel](https://www.linkedin.com/in/fabian-galasel/)
