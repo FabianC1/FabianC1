@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Fabian Galasel (@FabianC1)
 
-🎓 I'm a recent BSc (Hons) Computer Science graduate from Middlesex University, passionate about solving real-world problems through software.
+🎓 I'm a recent BSc (Hons) Computer Science graduate from Middlesex University, awarded First Class Honours, and passionate about solving real-world problems through software.
 
 💻 I enjoy working across the stack — from building intuitive front-end interfaces to designing scalable back-end systems.  
 🔍 I'm especially interested in web development, mobile apps, game development, and software development.
